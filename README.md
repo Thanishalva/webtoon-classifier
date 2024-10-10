@@ -18,16 +18,17 @@ A chatbot answers common questions related to "Castle Swimmer," providing inform
 The chatbot is designed to answer common questions about "Castle Swimmer." Below are examples of questions you can ask:
 
 **Example Questions**
-What is Castle Swimmer about?
-Who are the main characters?
-Tell me more.
-What genre is Castle Swimmer?
-How many chapters does it have?
-What makes Castle Swimmer unique?
-Who wrote Castle Swimmer?
-What is the main theme of the story?
-Are there any adaptations?
-How to Interact
+What is Castle Swimmer about
+Who are the main characters
+Tell me more
+What genre is Castle Swimmer
+How many chapters does it have
+What makes Castle Swimmer unique
+Who wrote Castle Swimmer
+What is the main theme of the story
+Are there any adaptations
+
+**How to Interact**
 Type one of the questions into the chat interface.
 If the chatbot does not understand, it will respond with a default message.
 Type "exit" to end the chat.
