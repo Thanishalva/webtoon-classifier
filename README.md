@@ -31,3 +31,5 @@ How to Interact
 Type one of the questions into the chat interface.
 If the chatbot does not understand, it will respond with a default message.
 Type "exit" to end the chat.
+
+AUTHOR-THANISH ALVA
